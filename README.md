@@ -4,11 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sup!+Fellow+Programmers!+👋;+I'm+Neha+Sharma!;" />
 </h1>
 
-## College Student | Aspiring Data Analyst | Art Appreciator
+<div align="center">
+    
+### College Student | Aspiring Data Analyst | Art Appreciator
+
+</div>
 
 <br>
 
-### About Me⭐
+<h3>About Me⭐</h3>
 
 🎓Presently a data science student at **Noida Institute of Engineering and Technology**. <br>
 
