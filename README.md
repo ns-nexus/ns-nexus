@@ -1,4 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ns-nexus.ns-nexus" />
+<br>
+<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<br>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sup!+Fellow+Programmers!+👋;+I'm+Neha+Sharma!;" />
@@ -12,7 +16,7 @@
 
 <br>
 
-<h3>About Me⭐</h3>
+## About Me⭐
 
 🎓Presently a data science student at **Noida Institute of Engineering and Technology**. <br>
 
@@ -26,7 +30,7 @@
 
 <br>
 
-### My Tech Stack💻
+## My Tech Stack💻
 
 #### Programming Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -75,6 +79,11 @@
 #### Others
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+
+<br>
+
+## Reach Me At📫
+
 
 
 
