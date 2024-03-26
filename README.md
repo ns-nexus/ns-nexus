@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ns-nexus.ns-nexus" />
 <br>
-<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
-![Banner-Image](ns-nexus/banner.png)
+<img align="center" src="Banner.png" />
 <br>
 
 
@@ -95,6 +94,9 @@
   </a>
 </div>
 
+<br>
+<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<br>
 
 
 
