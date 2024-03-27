@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ns-nexus.ns-nexus" />
 <br>
-<img align="center" src="Banner.png" />
+<div align="center">
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+</div>
 <br>
 
 
@@ -92,10 +94,11 @@
   <a href="https://www.linkedin.com/in/nehasharma6342/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <img align="center" src="Banner.png" />
 </div>
 
 <br>
-<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+
 <br>
 
 
