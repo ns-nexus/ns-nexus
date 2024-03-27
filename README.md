@@ -84,6 +84,7 @@
 
 <br>
 
+<!--
 ## My Contribution🐍
 
 <div align="center">
@@ -91,6 +92,7 @@
 </div>
 
 <br>
+-->
 
 ## Reach Me At📫
 
@@ -102,6 +104,7 @@
   <a href="https://www.linkedin.com/in/nehasharma6342/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <br>
     <img align="center" src="Banner.png" />
 </div>
 
