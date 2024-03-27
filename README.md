@@ -84,6 +84,14 @@
 
 <br>
 
+## My Contribution🐍
+
+<div align="center">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ns-nexus/ns-nexus/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br>
+
 ## Reach Me At📫
 
 <div align="left"> 
@@ -99,7 +107,9 @@
 
 <br>
 
-<br>
+
+
+
 
 
 
