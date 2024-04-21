@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <br>
-    <img align="center" src="Banner.png" />
+    <img align="center" src="media/banner.png" />
 </div>
 
 <br>
