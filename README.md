@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ns-nexus.ns-nexus" />
 <br>
 <div align="center">
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<img src="media/banner.png" />
 </div>
 <br>
 
