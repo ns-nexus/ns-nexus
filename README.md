@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ns-nexus.ns-nexus" />
+<img align="right" src="https://vbr.nathanchung.dev/badge?page_id=ns-nexus.ns-nexus&color=55acb7&style=for-the-badge&logo=Github" />
+<br>
 <br>
 <div align="center">
 <img src="media/dino.gif" />
